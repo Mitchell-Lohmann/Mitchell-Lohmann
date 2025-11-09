@@ -9,6 +9,12 @@
 Welcome to my GitHub account, my name is **Mitchell**!
 I am an early career Software Engineer who uses GitHub to host various small-scale programs I have developed, and to showcase projects I have worked on.
 
+## Projects
+Check out some of the projects I have worked on.
+- [Redox-Keyboard](https://github.com/Mitchell-Lohmann/Redox-Keyboard) a fork of [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
+- [Gallagher-Mounting-Pan](https://github.com/Mitchell-Lohmann/Gallagher-Mounting-Plate) an open-source hardware mounting plate for Gallagher IO boards.
+- [Gallagher-Hardware-Report-to-XLSX](https://github.com/Mitchell-Lohmann/Gallagher-Hardware-Report-to-XLSX) an open-source report converter.
+
 ## Experience
 
 Tools, languages, and platforms I have used over the past **5 years**.
@@ -98,11 +104,12 @@ Tools, languages, and platforms I have used over the past **5 years**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
 </div>
 
-### Databases
+### Database & BI
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" height="48rem" />&nbsp;
     <img src="https://jbarber2016.gallerycdn.vsassets.io/extensions/jbarber2016/vsts-ssrs-deploy/1.0.1/1568049475931/Microsoft.VisualStudio.Services.Icons.Default" alt="SSRS" height="48rem" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" />&nbsp;
 </div>
 
