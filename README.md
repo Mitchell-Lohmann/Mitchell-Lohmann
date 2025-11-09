@@ -123,6 +123,25 @@ Tools, languages, and platforms I have used over the past **5 years**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" height="48rem" />&nbsp;
 </div>
 
+### Productivity
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Office_Word_%282025%E2%80%93present%29.svg/1990px-Microsoft_Office_Word_%282025%E2%80%93present%29.svg.png" alt="Power Point" height="48rem" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%932025%29.svg.png" alt="Power Point" height="48rem" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" alt="Excel" height="48rem" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Microsoft_Outlook_logo_%282024%E2%80%932025%29.svg/1280px-Microsoft_Outlook_logo_%282024%E2%80%932025%29.svg.png" alt="Outlook" height="48rem" />&nbsp;
+</div>
+
+### CAD
+
+<div align="center">
+    <img src="https://wp-cdn.pugetsystems.com/2022/08/SOLIDWORKS-Logo.png" alt="Solid Works" height="48rem" />&nbsp;
+    <img src="https://us.v-cdn.net/5022071/uploads/editor/hz/56yvxecu5050.ico" alt="OnShape" height="48rem" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fusion360_Logo.svg/250px-Fusion360_Logo.svg.png" alt="Fusion 360" height="48rem" />&nbsp;
+    <img src="https://yt3.googleusercontent.com/ZD_DpPWrTpnkMokLNrjlPFXZRuO1lgJH2sCSYWo73aYpi2hE19V1bJ4K-EOd2oBx-r_T8nUItQ=s900-c-k-c0x00ffffff-no-rj" alt="Brics CAD" height="48rem" />&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhkFCkzGI3u0CNLVj2MbeA5UXJ_XkIjSgMg&s" alt="Blue Beam" height="48rem" />&nbsp;
+</div>
+
 ### Design
 
 <div align="center">
@@ -138,6 +157,7 @@ Tools, languages, and platforms I have used over the past **5 years**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="PFSense" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" height="48rem" />&nbsp;
+    <img src="https://images.icon-icons.com/1508/PNG/512/openvpn_104297.png" alt="Open VPN" height="48rem" />&nbsp;
 </div>
 
 ### Virtualisation
