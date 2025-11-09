@@ -164,7 +164,7 @@ Tools, languages, and platforms I have used over the past **5 years**.
 
 ---
 
-## :fire: GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
